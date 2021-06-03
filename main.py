@@ -2,7 +2,6 @@ import pyglet
 from pyglet.window import key
 from pyglet.window import mouse
 from pyglet import shapes
-import pygame
 import math
 
 
